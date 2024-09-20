@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorpohlenz&label=Profile%20views&color=0e75b6&style=flat" alt="vitorpohlenz" /> </p>
 
-- 🔭 I’m currently the Scrum Mater on AQTech Power Prognostics [https://en.aqtech.com/](https://en.aqtech.com/)
+- 🔭 I'm currently the Data Scientist Scrum Master on AQTech Power Prognostics [https://en.aqtech.com/](https://en.aqtech.com/)
 
 - 📝 My Stack Overflow Account [https://stackoverflow.com/users/7723965/vpz](https://stackoverflow.com/users/7723965/vpz)
 
